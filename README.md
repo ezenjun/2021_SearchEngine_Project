@@ -7,3 +7,4 @@
 [시작 페이지]
 ![그림1](https://user-images.githubusercontent.com/44547064/122673252-85217380-d20a-11eb-9e8d-37bd1f8b765f.png)
 [검색 페이지]
+![저작권 등록증 (C-2022-057117, 블로그 포스트 광고 판별 시스템)_1](https://user-images.githubusercontent.com/44547064/230786817-be3a8fe2-e31d-4190-a911-60e8cb33a083.png)
